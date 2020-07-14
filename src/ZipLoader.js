@@ -3,7 +3,7 @@
  */
 
 import JSZip from 'jszip';
-
+import * as THREE from 'three';
 
 function ZipLoader( manager ) {
 
